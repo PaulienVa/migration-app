@@ -1,4 +1,4 @@
-package com.openvalue.studentregistration.universities;
+package com.openvalue.studentregistration.students;
 
-public class UniversityService {
+public class StudentService {
 }

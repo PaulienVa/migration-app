@@ -1,2 +1,9 @@
-package com.openvalue.studentregistration.registration.model;public class RegistrationStatus {
+package com.openvalue.studentregistration.registration.model;
+
+public enum RegistrationStatus {
+    SUCCESS,
+    PENDING,
+    FAILED,
+    REFUSED,
+    ;
 }
